@@ -1,7 +1,5 @@
 ## Hi there 👋
-<picture>
- <img alt="I use Arch BTW" src="[Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)">
-</picture>
+!\[I use Arch BTW\](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <!--
 **Vadym-beep/Vadym-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
