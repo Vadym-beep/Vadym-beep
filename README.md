@@ -7,6 +7,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Made In Ukraine\!](https://img.shields.io/badge/Made_In-Ukraine-blue?style=for-the-badge&labelColor=gold)
 ![This person was](https://img.shields.io/badge/This_Person-Was-blue?style=for-the-badge&labelColor=gold)![Born In Ukraine\!](https://img.shields.io/badge/Born%20in-Ukraine-blue?style=for-the-badge&labelColor=gold)
+![Developer Is From Ukraine](https://img.shields.io/badge/Developer_Is-From_Ukraine-blue?style=plastic&labelColor=gold)
 
 <!--
 **Vadym-beep/Vadym-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
